@@ -14,7 +14,7 @@ This repository contains the backend implementation for the Codemonk Internship 
 ## Tech Stack
 
 - Python 3.9
-- Django 4.x
+- Django 4.2.7
 - Django REST Framework
 - PostgreSQL
 - Docker & Docker Compose
